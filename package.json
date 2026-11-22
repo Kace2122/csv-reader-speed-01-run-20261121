@@ -1,1 +1,1 @@
-{"type":"module"}
+{"description":"Round-2 entry for make.fun csv-reader-speed-01-run-20261121: a faster drop-in for csv-reader 1.0.0","license":"MIT","main":"solve.js","name":"csv-reader-speed-round2","private":true,"type":"module","version":"2.0.0"}
